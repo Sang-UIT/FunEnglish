@@ -1,0 +1,13 @@
+D:\LT C#\BaiTH1\Bai TH1 - Copy\Bai TH1\bin\x64\Release\Bai TH1.exe.config
+D:\LT C#\BaiTH1\Bai TH1 - Copy\Bai TH1\bin\x64\Release\Bai TH1.exe
+D:\LT C#\BaiTH1\Bai TH1 - Copy\Bai TH1\bin\x64\Release\Bai TH1.pdb
+D:\LT C#\BaiTH1\Bai TH1 - Copy\Bai TH1\obj\x64\Release\Bai TH1.csprojResolveAssemblyReference.cache
+D:\LT C#\BaiTH1\Bai TH1 - Copy\Bai TH1\obj\x64\Release\Bai_TH1.Choosen.resources
+D:\LT C#\BaiTH1\Bai TH1 - Copy\Bai TH1\obj\x64\Release\Bai_TH1.FunEnglish.resources
+D:\LT C#\BaiTH1\Bai TH1 - Copy\Bai TH1\obj\x64\Release\Bai_TH1.Ranking.resources
+D:\LT C#\BaiTH1\Bai TH1 - Copy\Bai TH1\obj\x64\Release\Bai_TH1.Start.resources
+D:\LT C#\BaiTH1\Bai TH1 - Copy\Bai TH1\obj\x64\Release\Bai_TH1.Learning.resources
+D:\LT C#\BaiTH1\Bai TH1 - Copy\Bai TH1\obj\x64\Release\Bai_TH1.Properties.Resources.resources
+D:\LT C#\BaiTH1\Bai TH1 - Copy\Bai TH1\obj\x64\Release\Bai TH1.csproj.GenerateResource.Cache
+D:\LT C#\BaiTH1\Bai TH1 - Copy\Bai TH1\obj\x64\Release\Bai TH1.exe
+D:\LT C#\BaiTH1\Bai TH1 - Copy\Bai TH1\obj\x64\Release\Bai TH1.pdb
